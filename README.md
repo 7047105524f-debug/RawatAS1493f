@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anil Rawat</h1>
-<h3 align="center">A passionate  from India</h3>
+<h3 align="center">A passionate learner frome India</h3>
 
-- 🌱 I’m currently learning **data analyst**
-
+- 🌱 I’m currently learning **python,Sql,Excel,Power BI**
+- Exploring the World of **Data Analysis & Automation**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
