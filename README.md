@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **python,Sql,Excel,Power BI**
 - Exploring the World of **Data Analysis & Automation**
+- Looking to collaborate on **data-related projects**
+- Goal: Become a **Data Anylysis & Freelancer**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
